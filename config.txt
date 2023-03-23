@@ -1,0 +1,6 @@
+serivor : aaaa
+banco : aaaa
+usuario : aaa
+senha : aaaa
+nome : aaa
+caminho : aaaa
